@@ -211,7 +211,7 @@
 
         combo_lsymm {
             timeout-ms = <50>;
-            key-positions = <4 33>;
+            key-positions = <3 33>;
             bindings = <&tog NUM>;
         };
 
